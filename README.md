@@ -1,2 +1,2 @@
 # myrepo
-personel repository for training
+this is a personel repository of mrudul for training purpose
